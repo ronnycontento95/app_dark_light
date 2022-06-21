@@ -39,6 +39,6 @@ flutter_intl:
 3. Colors.
 Note: The app responds to both colors for dark and light.
 
-<img src="https://res.cloudinary.com/developments/image/upload/v1655849085/App_dark_and_light/photo_2022-06-21_17-04-26_mv0blk.jpg" width=100>
-<img src="https://res.cloudinary.com/developments/image/upload/v1655849085/App_dark_and_light/photo_2022-06-21_17-04-28_poeerc.jpg" width=100>
+<img src="https://res.cloudinary.com/developments/image/upload/v1655849085/App_dark_and_light/photo_2022-06-21_17-04-26_mv0blk.jpg" width=300>
+<img src="https://res.cloudinary.com/developments/image/upload/v1655849085/App_dark_and_light/photo_2022-06-21_17-04-28_poeerc.jpg" width=300>
 
